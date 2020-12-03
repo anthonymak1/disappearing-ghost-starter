@@ -36,6 +36,10 @@ button {
     background-color: #e4afee;
 }
 
+.revert-img-button {
+  background-color: maroon;
+}
+
 .name-button {
     background-color: #17d3ff;
 }
